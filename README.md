@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Seungman;Mobile+Engineer+%F0%9F%93%B1;Android+%7C+Kotlin+%7C+TypeScript" alt="Typing SVG" />
-
-<br/>
-
-`모바일의 가능성을 코드로 만듭니다`
-
-<br/>
-
 [![GitHub followers](https://img.shields.io/github/followers/panicgit?style=for-the-badge&logo=github&color=236ad3)](https://github.com/panicgit)
 
 </div>
