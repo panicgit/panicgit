@@ -45,9 +45,9 @@
 
 |  | Project | What it does |
 |:-:|---------|-------------|
-| :toilet: | [**Poopilot**](https://github.com/panicgit/poopilot) | 급똥모드 — 현대 Pleos 차량용 긴급 화장실 검색 |
-| :framed_picture: | [**Under Gallery**](https://github.com/panicgit/under-gallery-app) | 프리미엄 포토 갤러리 앱 |
-| :robot: | [**Wrangler**](https://github.com/panicgit/wrangler) | Claude Code 멀티에이전트 하네스 플러그인 |
+| :toilet: | [**Poopilot**](https://github.com/panicgit/poopilot) | Emergency restroom finder for Hyundai Pleos Connect |
+| :framed_picture: | [**Under Gallery**](https://github.com/panicgit/under-gallery-app) | Premium photo gallery app |
+| :robot: | [**Wrangler**](https://github.com/panicgit/wrangler) | Multi-agent harness plugin for Claude Code |
 
 </div>
 
