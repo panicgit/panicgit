@@ -46,7 +46,7 @@
 |  | Project | What it does |
 |:-:|---------|-------------|
 | :toilet: | [**Poopilot**](https://github.com/panicgit/poopilot) | Emergency restroom finder for Hyundai Pleos Connect |
-| :framed_picture: | [**Under Gallery**](https://github.com/panicgit/under-gallery-app) | Premium photo gallery app |
+| :pray: | [**Umma**](https://github.com/panicgit/umma-app) | Community app powered by Firebase |
 | :robot: | [**Wrangler**](https://github.com/panicgit/wrangler) | Multi-agent harness plugin for Claude Code |
 
 </div>
