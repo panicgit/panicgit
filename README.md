@@ -24,7 +24,7 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=panicgit&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=a9b1d6&bg_color=00000000" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=panicgit&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=a9b1d6&bg_color=00000000" />
 </td>
 <td width="50%" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=panicgit&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=555555" />
